@@ -19,8 +19,7 @@
 
 
 
-
-## 6주차
+## 5주차
 - 버튼을 눌러 이미지 바꾸기
 
 
@@ -29,3 +28,10 @@
 <img width="" height="" src="./pic/소스2.JPG"></img>
 <img width="" height="" src="./pic/결과1.JPG"></img>
 <img width="" height="" src="./pic/결과2.JPG"></img>
+
+
+
+## 6주차
+- 스크롤뷰 이용
+- 자바로 버튼클릭으로 이미지 바꾸는 것 작업
+- Interger.toString()함수 사용해 Toast 메세지 띄우기
