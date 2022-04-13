@@ -35,3 +35,12 @@
 - 스크롤뷰 이용
 - 자바로 버튼클릭으로 이미지 바꾸는 것 작업
 - Interger.toString()함수 사용해 Toast 메세지 띄우기
+
+
+
+<img width="" height="" src="./pic/front.png"></img>
+<img width="" height="" src="./pic/java.png"></img>
+<img width="" height="" src="./pic/이미지1.png"></img>
+<img width="" height="" src="./pic/이미지2.png"></img>
+<img width="" height="" src="./pic/넓이.png"></img>
+<img width="" height="" src="./pic/높이.png"></img>
