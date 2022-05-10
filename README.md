@@ -44,3 +44,21 @@
 <img width="" height="" src="./pic/이미지2.png"></img>
 <img width="" height="" src="./pic/넓이.png"></img>
 <img width="" height="" src="./pic/높이.png"></img>
+
+
+
+
+
+
+## 10주차
+- 메뉴의 요청을 받아 메인에서 값을 출력
+- 버튼을 누르면 메뉴화면이 뜨고, 돌아가기 버튼을 누르면 토스트 메세지 창이 뜸
+
+
+
+<img width="" height="" src="./pic/01.png"></img>
+<img width="" height="" src="./pic/02.png"></img>
+<img width="" height="" src="./pic/03.png"></img>
+<img width="" height="" src="./pic/04.png"></img>
+<img width="" height="" src="./pic/05.png"></img>
+<img width="" height="" src="./pic/06.png"></img>
