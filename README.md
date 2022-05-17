@@ -62,3 +62,16 @@
 <img width="" height="" src="./pic/04.png"></img>
 <img width="" height="" src="./pic/05.png"></img>
 <img width="" height="" src="./pic/06.png"></img>
+
+
+
+
+
+
+
+## 10주차
+- wep의 api Key값을 받아 요청을 수행한다
+
+
+
+<img width="" height="" src="./pic/wep.png"></img>
